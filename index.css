@@ -1,0 +1,30 @@
+
+
+.meucss{
+    display: flex;
+    box-shadow: 0px 1px 1px 1px rgb(163, 152, 152);
+    border-radius: 5px;
+    width: 386px;
+    height: 358px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.cadastro{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 371px;
+ height: 100px;
+ flex-direction: column;
+}
+.Criar{
+display: flex;
+justify-content: center;
+width: 343;
+height: 343;
+
+}
+
